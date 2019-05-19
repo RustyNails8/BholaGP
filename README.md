@@ -13,6 +13,15 @@ I use the [editor on GitHub](https://github.com/RustyNails8/BholaGP/edit/master/
 # BholaGP
 # Sumit Das
 # Created 2019 05 19
+
+Here an image of a BholaLine
+
+!img [Bhola Line] (https://github.com/RustyNails8/BholaGP/blob/master/Line.jpg)
+
+Here an image of BholaCircle
+
+!img [Bhola Circle] (https://github.com/RustyNails8/BholaGP/blob/master/Circle.jpg)
+
 ```
 
 
