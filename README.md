@@ -5,15 +5,15 @@ To quench the insatiable thirst of a certain Bholanath
 
 I use the [editor on GitHub](https://github.com/RustyNails8/BholaGP/edit/master/README.md) to maintain and preview the content for your website in Markdown files. Whenever I commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-## PreRequisites:
-2. Python Interpreter version 3.7. Get from [HERE](https://www.python.org/)
-3. Install the enchant Graohics PyPi Package. Get from [HERE](https://pypi.org/project/graphics/)
+## PreRequisites for checking Graphics Programs for BholaNath:
+1. Python Interpreter version 3.7. Get from [HERE](https://www.python.org/)
+2. Install the Graphics PyPi Package. Get from [HERE](https://pypi.org/project/graphics/)
 
 ```markdown
 # BholaGP
 # Sumit Das
 # Created 2019 05 19
-
+```
 
 
 ### Jekyll Themes
