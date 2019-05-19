@@ -16,11 +16,11 @@ I use the [editor on GitHub](https://github.com/RustyNails8/BholaGP/edit/master/
 
 Here an image of a BholaLine
 
-![Bhola Line] (https://github.com/RustyNails8/BholaGP/blob/master/Line.jpg)
+![Bhola Line](https://github.com/RustyNails8/BholaGP/blob/master/Line.jpg)
 
 Here an image of BholaCircle
 
-![Bhola Circle] (https://github.com/RustyNails8/BholaGP/blob/master/Circle.jpg)
+![Bhola Circle](https://github.com/RustyNails8/BholaGP/blob/master/Circle.jpg)
 
 ```
 
