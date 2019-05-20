@@ -9,22 +9,18 @@ I use the [editor on GitHub](https://github.com/RustyNails8/BholaGP/edit/master/
 1. Python Interpreter version 3.7. Get from [HERE](https://www.python.org/)
 2. Install the Graphics PyPi Package. Get from [HERE](https://pypi.org/project/graphics/)
 
-```markdown
 # BholaGP
 # Sumit Das
 # Created 2019 05 19
 
 Here an image of a BholaLine
 
-![Bhola Making a Circle](https://octodex.github.com/images/vinyltocat.png)
+dd![Bhola Circle](https://raw.githubusercontent.com/RustyNails8/BholaGP/master/Circle.jpg)
 
 Here an image of BholaCircle
 
-![Bhola Making a Line](https://octodex.github.com/hulatocat)
+![Bhola Line](https://raw.githubusercontent.com/RustyNails8/BholaGP/master/Line.jpg)
 
-
-
-```
 
 
 ### Jekyll Themes
