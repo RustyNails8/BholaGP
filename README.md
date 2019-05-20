@@ -23,7 +23,21 @@ Here an image of BholaLine
 
 Here an image of TwoBholaLine
 
-![Bhola TwoLines](https://raw.githubusercontent.com/RustyNails8/BholaGP/master/Line.jpg)
+![Bhola TwoLines](TwoLines.jpg)
+
+Here an image of ThreeBholaLine
+
+![Bhola ThreeLines](ThreeLines.jpg)
+
+Here an image of TwoBholaLine
+
+![Bhola ParallelVerticalLines](ParallelVerticalLines.jpg)
+
+Here an image of TwoBholaLine
+
+![Bhola ParallelHorizontalLines](ParallelHorizontalLines.jpg)
+
+
 
 
 ### Jekyll Themes
