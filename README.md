@@ -10,17 +10,20 @@ I use the [editor on GitHub](https://github.com/RustyNails8/BholaGP/edit/master/
 2. Install the Graphics PyPi Package. Get from [HERE](https://pypi.org/project/graphics/)
 
 # BholaGP
-# Sumit Das
-# Created 2019 05 19
+## by Sumit Das
+#### Created 2019 05 19
 
-Here an image of a BholaLine
+Here an image of a BholaCircle
 
 ![Bhola Circle](https://raw.githubusercontent.com/RustyNails8/BholaGP/master/Circle.jpg)
 
-Here an image of BholaCircle
+Here an image of BholaLine
 
 ![Bhola Line](https://raw.githubusercontent.com/RustyNails8/BholaGP/master/Line.jpg)
 
+Here an image of TwoBholaLine
+
+![Bhola TwoLines](https://raw.githubusercontent.com/RustyNails8/BholaGP/master/Line.jpg)
 
 
 ### Jekyll Themes
