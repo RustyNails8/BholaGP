@@ -23,19 +23,19 @@ Here an image of BholaLine
 
 Here an image of TwoBholaLine
 
-![Bhola TwoLines](TwoLines.jpg)
+![Bhola TwoLines](https://raw.githubusercontent.com/RustyNails8/BholaGP/master/TwoLines.jpg)
 
 Here an image of ThreeBholaLine
 
-![Bhola ThreeLines](ThreeLines.jpg)
+![Bhola ThreeLines](https://raw.githubusercontent.com/RustyNails8/BholaGP/master/ThreeLines.jpg)
 
 Here an image of TwoBholaLine
 
-![Bhola ParallelVerticalLines](ParallelVerticalLines.jpg)
+![Bhola ParallelVerticalLines](https://raw.githubusercontent.com/RustyNails8/BholaGP/master/ParallelVerticalLines.jpg)
 
 Here an image of TwoBholaLine
 
-![Bhola ParallelHorizontalLines](ParallelHorizontalLines.jpg)
+![Bhola ParallelHorizontalLines](https://raw.githubusercontent.com/RustyNails8/BholaGP/master/ParallelHorizontalLines.jpg)
 
 
 
