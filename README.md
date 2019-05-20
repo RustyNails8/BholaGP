@@ -29,11 +29,11 @@ Here an image of ThreeBholaLine
 
 ![Bhola ThreeLines](https://raw.githubusercontent.com/RustyNails8/BholaGP/master/ThreeLines.jpg)
 
-Here an image of TwoBholaLine
+Here an image of ParallelVerticalLine
 
 ![Bhola ParallelVerticalLines](https://raw.githubusercontent.com/RustyNails8/BholaGP/master/ParallelVerticalLines.jpg)
 
-Here an image of TwoBholaLine
+Here an image of ParallelHorizontalLine
 
 ![Bhola ParallelHorizontalLines](https://raw.githubusercontent.com/RustyNails8/BholaGP/master/ParallelHorizontalLines.jpg)
 
