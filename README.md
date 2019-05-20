@@ -13,27 +13,27 @@ I use the [editor on GitHub](https://github.com/RustyNails8/BholaGP/edit/master/
 ## by Sumit Das
 #### Created 2019 05 19
 
-Here an image of a BholaCircle
+Here is an image of a BholaCircle
 
 ![Bhola Circle](https://raw.githubusercontent.com/RustyNails8/BholaGP/master/Circle.jpg)
 
-Here an image of BholaLine
+Here is an image of BholaLine
 
 ![Bhola Line](https://raw.githubusercontent.com/RustyNails8/BholaGP/master/Line.jpg)
 
-Here an image of TwoBholaLine
+Here is an image of TwoBholaLine
 
 ![Bhola TwoLines](https://raw.githubusercontent.com/RustyNails8/BholaGP/master/TwoLines.jpg)
 
-Here an image of ThreeBholaLine
+Here is an image of ThreeBholaLine
 
 ![Bhola ThreeLines](https://raw.githubusercontent.com/RustyNails8/BholaGP/master/ThreeLines.jpg)
 
-Here an image of ParallelVerticalLine
+Here is an image of ParallelVerticalLine
 
 ![Bhola ParallelVerticalLines](https://raw.githubusercontent.com/RustyNails8/BholaGP/master/ParallelVerticalLines.jpg)
 
-Here an image of ParallelHorizontalLine
+Here is an image of ParallelHorizontalLine
 
 ![Bhola ParallelHorizontalLines](https://raw.githubusercontent.com/RustyNails8/BholaGP/master/ParallelHorizontalLines.jpg)
 
