@@ -16,11 +16,13 @@ I use the [editor on GitHub](https://github.com/RustyNails8/BholaGP/edit/master/
 
 Here an image of a BholaLine
 
-![Bhola Circle](https://raw.githubusercontent.com/RustyNails8/BholaGP/master/Circle.jpg)
+![Bhola Making a Circle](https://octodex.github.com/images/vinyltocat.png)
 
 Here an image of BholaCircle
 
-![Bhola Line](https://raw.githubusercontent.com/RustyNails8/BholaGP/master/Line.jpg)
+![Bhola Making a Line](https://octodex.github.com/hulatocat)
+
+
 
 ```
 
