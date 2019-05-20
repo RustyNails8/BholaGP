@@ -15,7 +15,7 @@ I use the [editor on GitHub](https://github.com/RustyNails8/BholaGP/edit/master/
 
 Here an image of a BholaLine
 
-dd![Bhola Circle](https://raw.githubusercontent.com/RustyNails8/BholaGP/master/Circle.jpg)
+![Bhola Circle](https://raw.githubusercontent.com/RustyNails8/BholaGP/master/Circle.jpg)
 
 Here an image of BholaCircle
 
