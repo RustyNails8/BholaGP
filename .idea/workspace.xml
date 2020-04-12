@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6cff24d5-d25b-47fa-a646-6344ace6a405" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="6cff24d5-d25b-47fa-a646-6344ace6a405" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,9 +94,18 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Here an image</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Here is an image</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="Sumit Das &lt;sumit.das@linde.com&gt;" />
         <option value="Sumit Das &lt;sumit8das@gmail.com&gt;" />
       </list>
     </option>
@@ -344,12 +351,18 @@
       <option name="project" value="LOCAL" />
       <updated>1558314007002</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Corrected Grammar">
+      <created>1558315552793</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1558315552793</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="aws.explorer" side_tool="true" />
       <window_info id="Favorites" side_tool="true" />
@@ -406,7 +419,8 @@
     <MESSAGE value="Added More Line Types" />
     <MESSAGE value="Added More Line Types in Markdown" />
     <MESSAGE value="Added Linked Images in Markdown" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Linked Images in Markdown" />
+    <MESSAGE value="Corrected Grammar" />
+    <option name="LAST_COMMIT_MESSAGE" value="Corrected Grammar" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py">
