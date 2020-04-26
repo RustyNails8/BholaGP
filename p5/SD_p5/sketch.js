@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 function setup() {
   createCanvas(900, 440);
 }
@@ -14,4 +15,3 @@ function draw() {
         
   }
   ellipse(mouseX, mouseY, 10, 10);
-}
