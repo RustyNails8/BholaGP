@@ -21,6 +21,7 @@ function draw() {
   push();
   translate(width * 0.8, height * 0.5);
   rotate(frameCount / -100.0);
+  fill(253, 174, 120)
   star(0, 0, 30, 70, 5);
   pop();
 }
