@@ -23,4 +23,4 @@ function draw() {
     if (y > 1024){
         y=0;
     }
-    }
+}
