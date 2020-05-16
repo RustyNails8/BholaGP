@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 //https://p5js.org/examples/form-star.html
->>>>>>> stable-2.2
 function setup() {
   createCanvas(720, 400);
 }
@@ -25,6 +21,7 @@ function draw() {
   push();
   translate(width * 0.8, height * 0.5);
   rotate(frameCount / -100.0);
+  fill(253, 174, 120)
   star(0, 0, 30, 70, 5);
   pop();
 }
@@ -41,9 +38,5 @@ function star(x, y, radius1, radius2, npoints) {
     sy = y + sin(a + halfAngle) * radius1;
     vertex(sx, sy);
   }
-<<<<<<< HEAD
-  ellipse(mouseX, mouseY, 10, 10);
-=======
   endShape(CLOSE);
 }
->>>>>>> stable-2.2

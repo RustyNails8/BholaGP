@@ -1,3 +1,4 @@
+<<<<<<< HEAD:TwoLines.py
 <<<<<<< HEAD
 from graphics import *
 
@@ -12,6 +13,8 @@ def main():
 
 main()
 =======
+=======
+>>>>>>> stable-2.2:py/TwoLines.py
 from graphics import *
 
 def main():
@@ -23,5 +26,9 @@ def main():
     win.getMouse() # pause for click in window
     win.close()
 
+<<<<<<< HEAD:TwoLines.py
 main()
 >>>>>>> master
+=======
+main()
+>>>>>>> stable-2.2:py/TwoLines.py
